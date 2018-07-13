@@ -18,5 +18,6 @@ $(document).ready(function(){
     }
     alert(array);
     //user interface logic
+    
 
 });
